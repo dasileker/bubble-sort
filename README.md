@@ -18,6 +18,8 @@
 ## Built in
 
 - Ruby
+- Rubocop
+- Stickler-CI
 
 ## Live Demo
 
