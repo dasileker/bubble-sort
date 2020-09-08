@@ -9,7 +9,7 @@
   `` > end  ``  
  `` => ["hi", "hey", "hello"] 
   ``
-
+      
 ### 🎬 Demonstration
 
 <a href="bubble_sort.gif" target="_blank"> <img alt="Demonstration" src="bubble_sort.gif"/></a>
