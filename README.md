@@ -9,16 +9,27 @@
   `` > end  ``  
  `` => ["hi", "hey", "hello"] 
   ``
-## Built in
+
+### 🎬 Demonstration
+
+<a href="bubble_sort.gif" target="_blank"> <img alt="Demonstration" src="bubble_sort.gif"/></a>
+
+
+## 🔨 Built in
 
 - Ruby
+- Rubocop
+- Stickler-CI
 
+## 🚀 Our Project
+
+Our project can be found at https://repl.it/@zerradi/bubblesort#main.rb
 ## Live Demo
 
 [Live Demo Link](https://repl.it/@zerradi/bubblesort#main.rb)
 
 
-## Authors
+## 👨🏽‍💻 👨🏿‍💻 Creators
 
 👤 **Author1**
 
