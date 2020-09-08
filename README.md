@@ -9,6 +9,12 @@
   `` > end  ``  
  `` => ["hi", "hey", "hello"] 
   ``
+
+### 🎬 Demonstration
+
+<a href="bubble-sort.gif" target="_blank"> <img alt="Demonstration" src="bubble-sort.gif"/></a>
+
+
 ## Built in
 
 - Ruby
