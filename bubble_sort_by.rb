@@ -1,21 +1,17 @@
 def bubble_sort(arr)
+  len = arr.length
 
-  len = arr.length()
-
-    for i in 0...len
-      for j in i+1...len
-            if (arr[i] > arr[j])
-                arr[i], arr[j] = arr[j], arr[i]            
-            end
-      end
+  for i in 0...len
+    for j in i + 1...len
+      arr[i], arr[j] = arr[j], arr[i] if arr[i] > arr[j]
     end
-    return arr
+  end
+  arr
 end
 
-p bubble_sort([4,3,78,2,0,2])
+p bubble_sort([4, 3, 78, 2, 0, 2])
 
-
-#bubble_sort_by[""hi","hello","hey""]
+# bubble_sort_by[""hi","hello","hey""]
 def bubble_sort_by(array)
   raise 'No block_given' unless block_given?
 
@@ -33,6 +29,6 @@ def bubble_sort_by(array)
   puts array.join(' ')
 end
 
-bubble_sort_by(["hi","hello","hey"]) do |left,right|
+bubble_sort_by(%w[hi hello hey]) do |left, right|
   left.length - right.length
 end
