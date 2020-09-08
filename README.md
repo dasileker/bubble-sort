@@ -15,7 +15,7 @@
 <a href="bubble_sort.gif" target="_blank"> <img alt="Demonstration" src="bubble_sort.gif"/></a>
 
 
-## Built in
+## 🔨 Built in
 
 - Ruby
 - Rubocop
@@ -29,7 +29,7 @@ Our project can be found at https://repl.it/@zerradi/bubblesort#main.rb
 [Live Demo Link](https://repl.it/@zerradi/bubblesort#main.rb)
 
 
-## Authors
+## 👨🏽‍💻 👨🏿‍💻 Creators
 
 👤 **Author1**
 
