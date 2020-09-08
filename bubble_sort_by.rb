@@ -1,8 +1,8 @@
 def bubble_sort(arr)
   len = arr.length
 
-  for i in 0...len
-    for j in i + 1...len
+  (0...len).each do |i|
+    (i + 1...len).each do |j|
       arr[i], arr[j] = arr[j], arr[i] if arr[i] > arr[j]
     end
   end
