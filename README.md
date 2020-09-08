@@ -12,7 +12,7 @@
 
 ### 🎬 Demonstration
 
-<a href="bubble-sort.gif" target="_blank"> <img alt="Demonstration" src="bubble-sort.gif"/></a>
+<a href="bubble_sort.gif" target="_blank"> <img alt="Demonstration" src="bubble_sort.gif"/></a>
 
 
 ## Built in
@@ -21,6 +21,9 @@
 - Rubocop
 - Stickler-CI
 
+## 🚀 Our Project
+
+Our project can be found at https://repl.it/@zerradi/bubblesort#main.rb
 ## Live Demo
 
 [Live Demo Link](https://repl.it/@zerradi/bubblesort#main.rb)
